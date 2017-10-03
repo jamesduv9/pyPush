@@ -14,7 +14,7 @@ def reverseInput(text):
 
 
 def toHex(char):
-	#Hard one to figure out, Takes input and returns ASCII :)
+	#Guess what it does :D ^^
 	return str(char).encode("hex")
 
 
